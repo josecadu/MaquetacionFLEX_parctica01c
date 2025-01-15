@@ -34,7 +34,5 @@ Este proyecto utiliza [Git](https://git-scm.com/) para el control de versiones.
 ## Licencia
 Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
 
-## Recursos Adicionales
-- [Repositorio de GitHub](#)
 
 ---
