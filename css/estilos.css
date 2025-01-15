@@ -1,0 +1,65 @@
+/*Jose Manuel Cabrera Dueñas*/
+#Cambria{
+    font-family: Algerian, serif;
+    font-size: 1.2vw;
+}
+*, *::before, *::after{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(176, 221, 198);
+    color: green;
+    
+}
+header{
+    text-align: center;
+    margin: auto;
+}
+main{
+    text-align: center;
+    margin: auto;
+}
+.uno{
+display: flex;
+justify-content: space-evenly;
+margin-bottom: 20px;
+}
+.uno :nth-child(1){
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex: 0 0 10%;
+}
+.uno :nth-child(2){
+    flex: 0 0 60%;
+}
+.uno :nth-child(3){
+    flex: 0 0 30%;
+}
+picture img{
+    width: 85%;
+}
+.dos{
+display: flex;
+justify-content: end;
+margin-bottom: 20px;
+}
+.dos figure{
+width: 45%;
+}
+
+address{
+    display: flex;
+    justify-content: space-evenly; 
+}
+address :nth-child(1){
+    flex: 0 0 15%;
+}
+address :nth-child(2){
+    flex: 0 0 60%;
+}
+address :nth-child(3){
+    flex: 0 0 15%;
+}
